@@ -8,4 +8,4 @@ Just a reference for myself to refer back to when working on future Python proje
   cd python-readfile
   python main.py
   ```
-*A formatted log.txt file will output to the project root* 
+*Data will instantly output formatted to Terminal/Console*
